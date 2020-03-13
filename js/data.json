@@ -1,0 +1,141 @@
+data = '[{\
+    "eventName": "Talks#Mec:Hydra",\
+    "eventImg":"",\
+    "eventDate": "6-Feb-2019",\
+    "eventDesc": "some description"\
+    },\{\
+        "eventName": "Annual General Meeting",\
+        "eventImg":"",\
+        "eventDate": "8-Feb-2019",\
+        "eventDesc": "some description"\
+    },\{\
+        "eventName": "Science Day Quiz",\
+        "eventImg":"",\
+        "eventDate": "18-Feb-2019",\
+        "eventDesc": "some description"\
+    },\{\
+        "eventName": "Talks#Mec:Docker 101",\
+        "eventImg":"",\
+        "eventDate": "21-Feb-2019",\
+        "eventDesc": "some description"\
+    },\{\
+        "eventName": "Talks#Mec:SpaceX",\
+        "eventImg":"",\
+        "eventDate": "28-Feb-2019",\
+        "eventDesc": "some description"\
+    },\{\
+        "eventName": "Translation 1.0",\
+        "eventImg":"",\
+        "eventDate": "9-Mar-2019",\
+        "eventDesc": "some description"\
+    },\{\
+        "eventName": "Talks#Mec:Android Dev",\
+        "eventImg":"",\
+        "eventDate": "13-Mar-2019",\
+        "eventDesc": "some description"\
+    },\{\
+        "eventName": "XtreMEC LAunch Party",\
+        "eventImg":"",\
+        "eventDate": "13-Mar-2019",\
+        "eventDesc": "some description"\
+    },\{\
+        "eventName": "Science Day Talk",\
+        "eventImg":"",\
+        "eventDate": "15-Mar-2019",\
+        "eventDesc": "some description"\
+    },\{\
+        "eventName": "Womens Day Talk",\
+        "eventImg":"",\
+        "eventDate": "18-Mar-2019",\
+        "eventDesc": "some description"\
+    },\{\
+        "eventName": "Talks#Mec:Electro-Tech",\
+        "eventImg":"",\
+        "eventDate": "19-Mar-2019",\
+        "eventDesc": "some description"\
+    },\{\
+        "eventName": "Talks#Mec:EA and GP",\
+        "eventImg":"",\
+        "eventDate": "3-Apr-2019",\
+        "eventDesc": "some description"\
+    },\{\
+        "eventName": "Pes one-on-one",\
+        "eventImg":"",\
+        "eventDate": "7- April-2019",\
+        "eventDesc": "some description"\
+    },\{\
+        "eventName": "Environment Day Celebration",\
+        "eventImg":"",\
+        "eventDate": "27-Jun-2019",\
+        "eventDesc": "some description"\
+    },\{\
+        "eventName": "School Outreach Programme",\
+        "eventImg":"",\
+        "eventDate": "20-Jul-2019",\
+        "eventDesc": "some description"\
+    },\{\
+        "eventName": "MEC.conf",\
+        "eventImg":"",\
+        "eventDate": "26-Jul-2019",\
+        "eventDesc": "some description"\
+    },\{\
+        "eventName": "Alchemy 2.0",\
+        "eventImg":"",\
+        "eventDate": "12- July-2019",\
+        "eventDesc": "some description"\
+    },\{\
+        "eventName": "Empneo 3.0",\
+        "eventImg":"",\
+        "eventDate": "13,14- July-2019",\
+        "eventDesc": "some description"\
+    },\{\
+        "eventName": "Bitwise",\
+        "eventImg":"",\
+        "eventDate": "31-Aug-2019",\
+        "eventDesc": "some description"\
+    },\{\
+        "eventName": "Talks#Mec:Bitcoin and Blockchain",\
+        "eventImg":"",\
+        "eventDate": "30-Aug-2019",\
+        "eventDesc": "some description"\
+    },\{\
+        "eventName": "Talks#Mec:Fuchsia,now",\
+        "eventImg":"",\
+        "eventDate": "18-Sep-2019",\
+        "eventDesc": "some description"\
+    },\{\
+        "eventName": "Talks#Mec:Rust",\
+        "eventImg":"",\
+        "eventDate": "9-Oct-2019",\
+        "eventDesc": "some description"\
+    },\{\
+        "eventName": "Pes Quiz",\
+        "eventImg":"",\
+        "eventDate": "10-Oct-2019",\
+        "eventDesc": "some description"\
+    },\{\
+        "eventName": "Graphic Design Workshop",\
+        "eventImg":"",\
+        "eventDate": "12-Oct-2019",\
+        "eventDesc": "some description"\
+    },\{\
+        "eventName": "Talk By SPS DVP",\
+        "eventImg":"",\
+        "eventDate": "24-Oct-2019",\
+        "eventDesc": "some description"\
+    },\{\
+        "eventName": "Talks#Mec:C++ STL and Competitive Coding",\
+        "eventImg":"",\
+        "eventDate": "6-Nov-2019",\
+        "eventDesc": "some description"\
+    },\{\
+        "eventName": "SheTheCoder 2.0",\
+        "eventImg":"",\
+        "eventDate": "somedate",\
+        "eventDesc": "some description"\
+    },\{\
+        "eventName": "Spectrum War Finals",\
+        "eventImg":"",\
+        "eventDate": "somedate",\
+        "eventDesc": "some description"\
+    }\]';
